@@ -1,38 +1,43 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
+name: "\U0001F41E 提交 Bug"
+about: 提交一个 Bug
+title: 标题请简明扼要，具体内容写在下面
 labels: ''
 assignees: ''
-
 ---
+<!-- 提问之前请先在 issue 搜索一下，看看是否已经有提过相关的问题了，请勿重复提交类似问题！-->
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+<!-- 请按照下面的模板填写，以便更好的帮助你解决问题，不遵循模版，issue 将会被直接关闭。-->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## 问题描述
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## 截图
+<!-- 请提供相关界面的截图或浏览器开发者工具报错截图 -->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## 重现步骤
+1. 打开：
+2. 点击：
+3. 出现：
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## 期望结果
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## 相关信息（重要）
+- 发生问题的 URL：
+- iconfont 的用户昵称：
+- iconfont 项目 ID：
+<!-- 对应项目 URL 中的 projectId -->
 
-**Additional context**
-Add any other context about the problem here.
+## 相关文件（重要）
+<!-- 图标上传失败请在这里上传对应的 SVG 文件或 SVG 代码（iconfont 目前不支持 SVG 中包含**渐变、滤镜、位图**，会提示上传错误） -->
+<!-- 字体在页面中显示有问题请上传对应的字体文件（`ttt/woff/woff2`) -->
+
+<!-- 请将 SVG 代码粘贴到这里-->
+```svg
+
+```
+
+## 平台/浏览器版本（重要）
+- 操作系统及版本：
+<!-- 例如 macOS 10.14.5 -->
+- 浏览器名称及版本：
+<!-- 例如 Google Chrome 89.0.4389.82 -->
