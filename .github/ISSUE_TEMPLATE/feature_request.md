@@ -1,7 +1,7 @@
 ---
 name: "\U0001F680 功能请求"
 about: 新功能或现有功能改进建议
-title: '[FR]'
+title: ''
 labels: ''
 assignees: ''
 
